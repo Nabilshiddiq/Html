@@ -1,35 +1,100 @@
 {
   "main": {
-    "id": "51840b525e9d8648",
+    "id": "4614d4cdbcec3376",
     "type": "split",
     "children": [
       {
-        "id": "2777bbd76c3f0877",
+        "id": "320508638602238a",
         "type": "tabs",
         "children": [
           {
-            "id": "fae9b19443f01675",
+            "id": "4533443fc6217ea0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Grid-row-end.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "82617b5be2a9bcf7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Grid-column.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "01227b89356c38e7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Grid-column-end.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "26359ea687984901",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Css/Pengenalan css.md",
+                "file": "Untitled/Align-self.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78c50f3198aad82c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Materi grid/Aset/9.jpg.jpg"
+              }
+            }
+          },
+          {
+            "id": "b75fbf66a06e3f8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Css/css nabil.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0fdb2bd0a1c1d1db",
+    "id": "6b0c02ff89bc5902",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "22c9e3e40186bbfd",
+        "id": "af5d35e27fa6089a",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +104,7 @@
         }
       },
       {
-        "id": "2c264f84f881209d",
+        "id": "7671d9c7d50b233d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +119,7 @@
         }
       },
       {
-        "id": "0e37480aafb55fab",
+        "id": "5e6a64c3e4f395db",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +130,7 @@
         }
       },
       {
-        "id": "53a7b880a7b38401",
+        "id": "b00e16cb1187e524",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +141,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "1f55e677143e7da4",
+    "id": "1c6bd62ec6bb7429",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d4cc1ec83a21fde4",
+        "id": "4abf404a818096d1",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Css/Pengenalan css.md",
+            "file": "Css/css nabil.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,24 +162,24 @@
         }
       },
       {
-        "id": "a81aa4eb3f5b12bf",
+        "id": "ea0db880c7d20191",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Css/Pengenalan css.md",
+            "file": "Css/css nabil.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "e2fe24c23f35ba60",
+        "id": "721003e2b473e65b",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Css/Pengenalan css.md"
+            "file": "Css/css nabil.md"
           }
         }
       }
@@ -131,25 +196,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fae9b19443f01675",
+  "active": "b75fbf66a06e3f8e",
   "lastOpenFiles": [
-    "IMG-20240219-WA0010.jpg",
-    "IMG-20240219-WA0008.jpg",
-    "IMG-20240219-WA0009.jpg",
+    "Css/PHP.md",
+    "Css/css nabil.md",
+    "Catatan HTML.md",
+    "Css/angga.jpg",
+    "Css/Untitled",
+    "Css/Bootstrap Framework.md",
+    "Untitled/Grid-row-end.md",
+    "Css/Flex box.md",
     "Css/Folder css.md",
-    "Html/Pembuatan web.md",
+    "Css/Box model.md",
+    "assets/laravel-7.png",
+    "assets/btc-95.png",
+    "assets/btc-94.png",
+    "assets/btc-93.png",
+    "assets/btc-92.png",
+    "assets/btc-91.png",
+    "assets/btc-90.png",
+    "assets/btc-9.png",
+    "assets/btc-89.png",
+    "assets",
+    "Html/Semantic Html.md",
     "Css/Pengenalan css.md",
-    "Html/Untitled.md",
-    "Html/DIV-SPAN.md",
-    "Html/Pemrograman web.md",
+    "Css/Css Responsive.md",
+    "Materi grid/CATATAN GRID.md",
+    "Basis data/CATATAN SELECT.md",
+    "Basis data/CATATAN ALTER.md",
     "Html/Data Base 2.md",
-    "Html/Asset/IMG-20240213-WA0014.jpg",
-    "Html/Asset/IMG-20240213-WA0013.jpg",
-    "Html/Asset/IMG-20240213-WA0011 1.jpg",
-    "Html/Asset/IMG-20240213-WA0011.jpg",
     "Html/BASIS DATA.md",
-    "Html/Analisis ujian.md",
+    "Instalasi & Query awal data base.md",
+    "Html/DIV-SPAN.md",
     "Html/Asset/Pengantar web.md",
-    "Html/Html.md"
+    "Grid.md",
+    "Css/Position.md",
+    "Untitled/Place-self.md",
+    "Untitled/Align-self.md",
+    "Untitled/Justify-self.md",
+    "Untitled/Grid-area.md",
+    "Untitled 1",
+    "Untitled 2",
+    "Materi grid/Catatan grid/Untitled.canvas",
+    "Materi grid/Catatan grid/Untitled",
+    "Untitled",
+    "Materi grid/Aset",
+    "Materi grid/Catatan grid",
+    "Materi grid",
+    "Grid css"
   ]
 }

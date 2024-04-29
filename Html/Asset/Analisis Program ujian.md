@@ -58,7 +58,7 @@ Terdapat beberapa kesalahan penulisan pada elemen <label>,yang seharusnya dituli
 Tag <hr> juga ditutup tanpa pembukaan tag.
 Overall, ini adalah sebuah formulir sederhana untuk memesan bunga dengan opsi untuk memilih jenis bunga, metode pembayaran, alamat pengiriman, dan waktu pengiriman.
 
-## order_bunga.html
+### order_bunga.html
 Deklarasi jenis dokumen HTML.
 
 <html>: Elemen utama dari dokumen HTML. <head>: Berisi meta-informasi tentang dokumen HTML, termasuk judul. <title>: Menetapkan judul halaman web yang muncul di tab browser. <body>: Konten utama dari dokumen HTML. <table>: Mendefinisikan tabel untuk mengorganisir konten. border="0": Menghapus batas tabel. width="100%" dan height="100%": Menetapkan lebar dan tinggi tabel menjadi 100% dari tampilan. <tr>: Mewakili baris tabel. <th>: Mewakili sel kepala tabel. align="left", bgcolor="yellow", colspan="2", height="50": Atribut gaya untuk sel kepala. <tr> lain dengan <th> untuk judul utama. <tr> lain dengan <td> untuk menampilkan gambar. <img>: Menampilkan gambar dengan lebar dan tinggi tertentu. <tr> lain dengan <td> untuk tombol yang terhubung ke "u.html" untuk memesan bunga. <a>: Membuat hyperlink. <input>: Mendefinisikan bidang input (dalam hal ini tombol). type="submit": Menentukan jenis tombol. value="order bunga": Menetapkan teks tombol. <tr> lain dengan <td> untuk dua hyperlink berturut-turut dengan warna latar belakang yang berbeda. Setiap hyperlink didefinisikan menggunakan <a> dalam <td>. Secara keseluruhan, kode ini membuat halaman web sederhana dengan header, judul utama, gambar, tombol untuk memesan bunga, dan dua hyperlink untuk melihat daftar bunga dan memesan bunga secara langsung. Gaya dicapai menggunakan atribut HTML.
